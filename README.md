@@ -81,8 +81,8 @@ print(data.shape)
 
 > # 2. ZipcodeBelgium Dataset
 
->Thanks to jief [github link](https://github.com/jief/zipcode-belgium)
-we got our hands on a dataset  containing the long/lat of different belgians zipcode. We combine our first set. It  will allows us  to  plot some more visuals graphs.
+>Thanks to jief _[his github](https://github.com/jief/zipcode-belgium)_
+We got our hands on a dataset  containing the long/lat of different belgians zipcode. We combine our first set. It  will allows us  to  plot some more visuals graphs.
 
 ![alt text](plots/poolplot1.jpg)
 ```
@@ -259,7 +259,9 @@ we got our hands on a dataset  containing the long/lat of different belgians zip
 
 > ## Price evolution based on construction Year
 ![alt text](plots/evoplotprice.jpg)
-> ## By cuisine
+> ## Average price by cuisine type.
 > ![alt text](plots/price_cuisine_type.jpg)
-> ## Price evolution based on construction Year
+> ## Type of real estate available in differents municipalities.
 > ![alt text](plots/type_good_munip.jpg)
+> > ## Average price based on heating type.
+> ![alt text](plots/heatingtype_plot.jpg)
