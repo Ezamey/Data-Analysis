@@ -185,7 +185,7 @@ We got our hands on a dataset  containing the long/lat of different belgians zip
 - atticExists
 - hasSwimmingPool
 - basementExists
-  >Those last three are actually True or Nan types. Got be converted to booleans.
+  >Those last three are actually True or Nan types. Got converted to booleans.
 
 ------------------------------------------------------------
 - How would you transform these values into numerical values ?
