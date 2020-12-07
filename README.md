@@ -156,11 +156,11 @@ We got our hands on a dataset  containing the long/lat of different belgians zip
 ------------------------------------------------------------
 - Which variables have the greatest influence on the target ?
 
->The variables which have the greateast influence on the targ!et is the number of square meter.
+>The variables which have the greateast influence on the target is the number of square meter.
 ------------------------------------------------------------
 - Which variables have the least influence on the target ?
 
->The variables which have the greateast influence on the taret is the number of square meter.
+>
 ------------------------------------------------------------
 - How many qualitative and quantitative variables are there ? 
 
