@@ -73,7 +73,7 @@ print(data.shape)
 
 >We also have deleteted certain subtype subset because they were corresponding to real estate projects.
 
->Some columns got rename for clarity.
+>Some columns got renamed for clarity.
 
 >True/Nan type columns got filled with False
 
