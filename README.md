@@ -71,7 +71,7 @@ print(data.shape)
 ```
 >After exploring the dataset we deleted some columns because of  their high number of missing values or their irrelevance. 
 
->We also have deleteted certain subtype subset because they were corresponding to real estate projects.
+>We also have deleted certain subtype subset because they were corresponding to real estate projects.
 
 >Some columns got renamed for clarity.
 
