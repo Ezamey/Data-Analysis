@@ -265,3 +265,8 @@ We got our hands on a dataset  containing the long/lat of different belgians zip
 > ![alt text](plots/type_good_munip.jpg)
 > > ## Average price based on heating type.
 > ![alt text](plots/heatingtype_plot.jpg)
+
+# TODO :
+
+- Remove outliers and plot again to see  differences
+- Add interactivity for plotting for the client
